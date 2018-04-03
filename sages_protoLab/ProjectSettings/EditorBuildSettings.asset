@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/DIGITAL TUTORS BOARD GAME/LESSONS/Set Up Tower/Set up tower.unity
+    guid: edddca5e8d0f35e41adb7d440f1dd20f
+  - enabled: 1
+    path: Assets/DIGITAL TUTORS BOARD GAME/LESSONS/Set Up Tower/Tower Level 2.unity
+    guid: baad0334cb0acef44b6bbed1c62165c7
